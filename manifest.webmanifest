@@ -1,0 +1,17 @@
+{
+  "name": "Форма 60",
+  "short_name": "Форма 60",
+  "description": "60 днів: вага, зал, їжа, вода і кроки в одному місці.",
+  "lang": "uk",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F131A",
+  "theme_color": "#0F131A",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
